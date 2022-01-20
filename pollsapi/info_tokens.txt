@@ -1,0 +1,11 @@
+3f1cfd532ec13da2119b3c91cb498acf503dae00 test user1
+
+3f1cfd532ec13da2119b3c91cb498acf503dae00
+
+
+{
+    "username": "nate.silver.test",
+    "email": "nate.silver.test@example.com",
+    "password": "FiveThirtyEightTest"
+}
+token 662729401b2390138c9e291b464386907205e3a0
