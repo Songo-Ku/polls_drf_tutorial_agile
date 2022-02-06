@@ -28,6 +28,8 @@ def polls_detail(request, pk):
 class ListUsers(APIView):
     # authentication_classes = [authentication.TokenAuthentication]
     # permission_classes = [permissions.IsAuthenticated]
+    authentication_classes = []
+    permission_classes = []
 
     def get(self, request, format=None):
         """
