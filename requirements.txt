@@ -29,5 +29,3 @@ typing_extensions==4.0.1
 tzdata==2021.5
 wcwidth==0.2.5
 
-git remote add origin git@github.com:Songo-Ku/polls_drf_tutorial_agile.git
-git push -u origin main
